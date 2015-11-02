@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+An upstream remote is used to sync changes made in a fork with the original repository i.e. to merge changes from your local repo to the upstream repo stored eelsewhere
